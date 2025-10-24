@@ -1,0 +1,3 @@
+Employee [empId=1, empName=raj, empRole=Staff]
+Employee [empId=2, empName=rohan, empRole=tester]
+Employee [empId=3, empName=shijo, empRole=Staff]
